@@ -34,6 +34,9 @@ Dark & Light custom UI themes with colors variations for Sublime Text 2
 ##### Dark Yellow
 ![Phoenix Dark Yellow Theme](http://ballejaune.net/phoenix/Phoenix-Dark-Yellow.png?v=4)
 
+##### Dark Ruby
+Phoenix Dark Ruby Theme
+
 ## Todo's
 
 - Add more alternate colors for Light Theme (green, red, orange)
@@ -81,7 +84,7 @@ Phoenix Theme ships with 6 alternate color styles. To configure your favorite co
 
 * Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`
 * Add (or update) the `phoenix_color_*` entry
-  
+
 **Light theme :** `blue`, `darkblue` - **Dark Theme :** `red`, `green`, `blue`, `orange`, `yellow` and `pink`
 
 #### Example for Blue variant
@@ -92,7 +95,7 @@ Phoenix Theme ships with 6 alternate color styles. To configure your favorite co
 
 You can hightlight or not the text label (filename) of the selected tab :
 
-    "phoenix_highlight_current_tab": true    
+    "phoenix_highlight_current_tab": true
 
 ![Phoenix Dark Highlight Current Tab](http://ballejaune.net/phoenix/Phoenix-Highlight-Current-Tab.png?v=2)
 
@@ -100,7 +103,7 @@ You can hightlight or not the text label (filename) of the selected tab :
 
 If you use Phoenix Dark Eighties or Tomorrow Night Eighties color scheme, you will love having this option enabled!
 
-    "phoenix_eighties": true    
+    "phoenix_eighties": true
 
 ![Phoenix Dark Eighties Current Tab](http://ballejaune.net/phoenix/Phoenix-Dark-Eighties.png?v=1)
 
